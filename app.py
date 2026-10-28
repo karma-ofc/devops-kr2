@@ -1,3 +1,4 @@
+# KR2: NoFamilia
 import os
 import socket
 
